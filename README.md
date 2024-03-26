@@ -77,7 +77,7 @@ coverage
 ![alt text](image-13.png)
 
 -Mutiple robots
-![alt text](image-14.png)
+![alt text](./result/image-14.png)
 
 Small_hard, medium_medium, big_easy, big_medium, and big_hard failed due to corners that could not be covered by the minimum spanning tree approach. However, a multiple robot function was implemented to achieve 100% coverage faster than a single robot.
 
