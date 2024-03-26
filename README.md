@@ -24,21 +24,21 @@ Note: Weighted A\* may trade off optimality for search speed. Different weights 
 - Small_easy: 560 steps, 1.118 seconds
 - ![alt text](./result/image.png)
 - Small_medium: 654 steps, 1.319 seconds  
-![alt text](./result/image-1.png)
+-![alt text](./result/image-1.png)
 - Small_hard: 624 steps, 159.095 seconds
-  ![alt text](./result/image-2.png)
+-![alt text](./result/image-2.png)
 - Medium_easy: 986 steps, 95.76 seconds
-  ![alt text](./result/image-3.png)
+-![alt text](./result/image-3.png)
 - Medium_medium: 1686 steps, 3300 seconds
-  ![alt text](./result/image-4.png)
+-![alt text](./result/image-4.png)
 - Medium_hard: 1162 steps, 2171 seconds
-  ![alt text](./result/image-5.png)
+-![alt text](./result/image-5.png)
 - Big_easy: 1868 steps, 15792 seconds
-  ![alt text](./result/image-6.png)
+-![alt text](./result/image-6.png)
 - Big_medium: 1806 steps, 20579 seconds
-  ![alt text](./result/image-7.png)
+-![alt text](./result/image-7.png)
 - Big_hard: 1976 steps, 5961 seconds
-  ![alt text](./result/image-8.png)
+-![alt text](./result/image-8.png)
 
 For some maps, the search time was long due to the trade-off in Weighted A\*. Choosing the right weight is important to balance optimality and search speed.
 
@@ -65,16 +65,16 @@ Algorithm: DARP (Divide Areas Algorithm for Optimal Multi-Robot Coverage Path Pl
 ### Results
 
 - Small_easy: 279 seconds, 100% coverage
-  ![alt text](./result/image-10.png)
+-![alt text](./result/image-10.png)
 - Small_medium: 272 seconds, 100% coverage
-  ![alt text](./result/image-11.png)
+-![alt text](./result/image-11.png)
 - Medium_easy: 2406 seconds, 100% coverage
-  ![alt text](./result/image-12.png)
+-![alt text](./result/image-12.png)
 - Medium_hard: 3120 seconds, 100% coverage
-  ![alt text](./result/image-13.png)
+-![alt text](./result/image-13.png)
 
 -Mutiple robots
-  ![alt text](./result/image-14.png)
+-![alt text](./result/image-14.png)
 
 Small_hard, medium_medium, big_easy, big_medium, and big_hard failed due to corners that could not be covered by the minimum spanning tree approach. However, a multiple robot function was implemented to achieve 100% coverage faster than a single robot.
 
