@@ -37,6 +37,7 @@ Note: Weighted A\* may trade off optimality for search speed. Different weights 
   ![alt text](./result/image-6.png)
 - Big_medium: 1806 steps, 20579 seconds
   ![alt text](./result/image-7.png)
+  
 - Big_hard: 1976 steps, 5961 seconds
   ![alt text](./result/image-8.png)
 
