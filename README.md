@@ -22,7 +22,7 @@ Note: Weighted A\* may trade off optimality for search speed. Different weights 
 ### Results
 
 - Small_easy: 560 steps, 1.118 seconds
-![alt text](./result/image.png)
+- ![alt text](./result/image.png)
 - Small_medium: 654 steps, 1.319 seconds  
 ![alt text](./result/image-1.png)
 - Small_hard: 624 steps, 159.095 seconds
