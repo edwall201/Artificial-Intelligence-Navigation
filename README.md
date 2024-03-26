@@ -30,7 +30,7 @@ Note: Weighted A\* may trade off optimality for search speed. Different weights 
 - Medium_easy: 986 steps, 95.76 seconds
   ![alt text](./result/image-3.png)
 - Medium_medium: 1686 steps, 3300 seconds
-  ![alt text](./result/-4.png)
+  ![alt text](./result/image-4.png)
 - Medium_hard: 1162 steps, 2171 seconds
   ![alt text](./result/image-5.png)
 - Big_easy: 1868 steps, 15792 seconds
