@@ -37,7 +37,6 @@ Note: Weighted A\* may trade off optimality for search speed. Different weights 
   ![alt text](./result/image-6.png)
 - Big_medium: 1806 steps, 20579 seconds
   ![alt text](./result/image-7.png)
-  
 - Big_hard: 1976 steps, 5961 seconds
   ![alt text](./result/image-8.png)
 
@@ -69,14 +68,13 @@ Algorithm: DARP (Divide Areas Algorithm for Optimal Multi-Robot Coverage Path Pl
   ![alt text](./result/image-10.png)
 - Small_medium: 272 seconds, 100% coverage
   ![alt text](./result/image-11.png)
-- Medium_easy: 2406 seconds, 100% 
-coverage
-![alt text](./result/image-12.png)
+- Medium_easy: 2406 seconds, 100% coverage
+  ![alt text](./result/image-12.png)
 - Medium_hard: 3120 seconds, 100% coverage
-![alt text](./result/image-13.png)
+  ![alt text](./result/image-13.png)
 
 -Mutiple robots
-![alt text](./result/image-14.png)
+  ![alt text](./result/image-14.png)
 
 Small_hard, medium_medium, big_easy, big_medium, and big_hard failed due to corners that could not be covered by the minimum spanning tree approach. However, a multiple robot function was implemented to achieve 100% coverage faster than a single robot.
 
