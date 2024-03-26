@@ -1,5 +1,3 @@
-# Artificial-Intelligence-Navigation
-
 # AI Term Project: Path Planning and Global Coverage
 
 ## Path Planning
